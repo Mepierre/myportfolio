@@ -1,0 +1,60 @@
+.biopic {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+}
+
+.motivation {
+  width: 150px;
+  height: 150px;
+}
+body {
+  background-color: pink;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #black;
+}
+
+li {
+    display: inline;
+
+}
+
+li a {
+  display: inline;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+	display: block;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.contactinfo {
+  text-align: center;
+}
